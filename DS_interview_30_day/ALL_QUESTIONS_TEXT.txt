@@ -1,0 +1,424 @@
+Day 1:
+Q1. What is the difference between AI, Data Science, ML, and DL?
+Q2. What is the difference between Supervised learning, Unsupervised learning, and Reinforcement learning?
+Q3. Describe the general architecture of Machine learning.
+Q4. What is Linear Regression?
+Q5. OLS Stats Model (Ordinary Least Square)
+Q6. What is L1 Regularization (L1 = lasso)?
+Q7. L2 Regularization (L2 = Ridge Regression)
+Q8. What is R square (where to use and where not)?
+Q9. What is Mean Square Error?
+Q10. Why Support Vector Regression? Difference between SVR and a simple regression model?
+
+Day 2:
+Q1. What is Logistic Regression?
+Q2. Difference between logistic and linear regression?
+Q3. Why we can’t do a classification problem using Regression?
+Q4. What is Decision Tree?
+Q5. Entropy, Information Gain, Gini Index, Reducing Impurity?
+Q6. How to control leaf height and Pruning?
+Q7. How to handle a decision tree for numerical and categorical data?
+Q8. What is the Random Forest Algorithm?
+Q9. What is Variance and Bias tradeoff?
+Q10. What are Ensemble Methods?
+Q11. What is SVM Classification?
+Q12. What is Naive Bayes Classification and Gaussian Naive Bayes
+Q13. What is the Confusion Matrix?
+Q14. What is Accuracy and Misclassification Rate?
+Q15. True Positive Rate & True Negative Rate
+Q16. What are F1 Score, precision and recall?
+Q17. What is RandomizedSearchCV?
+Q18. What is GridSearchCV?
+Q19. What is BaysianSearchCV?
+Q20. What is ZCA Whitening?
+
+Day 3:
+Q1. How do you treat heteroscedasticity in regression?
+Q2. What is multicollinearity, and how do you treat it?
+Q3. What is market basket analysis? How would you do it in Python?
+Q4. What is Association Analysis? Where is it used?
+Q5. What is KNN Classifier ?
+Q6. What is Pipeline in sklearn ?
+Q7. What is Principal Component Analysis(PCA), and why we do?
+Q8. What is t-SNE?
+Q9. VIF(Variation Inflation Factor),Weight of Evidence & Information Value. Why and when to use?
+Q10: How to evaluate that data does not have any outliers ?
+Q11: What you do if there are outliers?
+Q12: What are the encoding techniques you have applied with Examples ?
+Q13: Tradeoff between bias and variances, the relationship between them.
+Q14: What is the difference between Type 1 and Type 2 error and severity of the error?
+Q15: What is binomial distribution and polynomial distribution?
+Q16: What is the Mean Median Mode standard deviation for the
+sample and population?
+Q17: What is Mean Absolute Error ?
+Q18: What is the difference between long data and wide data?
+Q19: What are the data normalization method you have applied, and why?
+Q20: What is the difference between normalization and Standardization with example?
+
+
+Day 4:
+
+Q1. What is upsampling and downsampling with examples?
+Q2. What is the statistical test for data validation with an example, Chi-square, ANOVA test, Z statics, T statics, F statics, Hypothesis Testing?
+Q3. What is the Central limit theorem?
+Q4. What is the correlation and coefficient?
+Q5: What is the difference between machine learning and deep
+learning?
+Q6: What is perceptron and how it is related to human neurons?
+Q7: Why deep learning is better than machine learning?
+Q8: What kind of problem can be solved by using deep learning?
+Q9: List down all the activation function using mathematical
+Expression and example. What is the activation function?
+Q10: Detail explanation about gradient decent using example and
+Mathematical expression?
+Q11: What is backward propagation?
+Q12: How we assign weights in deep learning?
+Q13: What is optimiser is deep learning, and which one is the best?
+Q14: What is gradient descent, mini-batch gradient descent, batch
+gradient decent, stochastic gradient decent and adam?
+Q15: What are autoencoders?
+Q16: What is CNN?
+Q17: What is pooling, padding, filtering operations on CNN?
+Q18: What is the Evolution technique of CNN?
+Q19: How to initialise biases in deep learning?
+Q20: What is learning Rate?
+
+
+Day 5:
+
+1️⃣ What are Epochs?
+2️⃣ What is the batch size?
+3️⃣ What is dropout in Neural network?
+4️⃣ List down hyperparameter tuning in deep learning.
+5️⃣ What do you understand by activation function and error functions?
+6️⃣ Why do we need Non-linear activation functions?
+7️⃣ What do you understand by vanishing gradient problem and how can we solve that?
+8️⃣ What is Transfer learning in deep learning?
+9️⃣ What is VGG16 and explain the architecture of VGG16?
+🔟 What is RESNET?
+1️⃣1️⃣ What is ImageNet?
+1️⃣2️⃣ What is DarkNet?
+1️⃣3️⃣ What is YOLO and explain the architecture of YOLO (you only Look Once). One use case?
+
+Day 6:
+
+1️⃣ What is NLP?
+2️⃣ What are the Libraries we used for NLP?
+3️⃣ What do you understand by tokenization?
+4️⃣ What do you understand by stemming?
+5️⃣ What is lemmatisation?
+6️⃣ What is the Bag-of-words model?
+7️⃣ What do you understand by TF-IDF?
+8️⃣ What is Word2vec?
+9️⃣ What is Doc2vec?
+🔟 What is Time-Series forecasting?
+1️⃣1️⃣ What is the difference between Time series and regression?
+1️⃣2️⃣ What is the difference between stationary and non-stationary data?
+1️⃣3️⃣ Why can't we use non-stationary data to solve time series problems?
+
+Day 7:
+1️⃣ What is the process to make data stationery from non-stationary in time series?
+2️⃣ What is the process to check stationary data?
+3️⃣ What are ACF and PACF?
+4️⃣ What do you understand by the trend of data?
+5️⃣ What is the Augmented Dickey-Fuller Test?
+6️⃣ What are AIC and BIC into time series?
+7️⃣ What are the components of the Time-Series?
+8️⃣ What is Time Series Analysis?
+9️⃣ Give some examples of the Time-Series forecast?
+🔟 What are the techniques of Forecasting?
+1️⃣1️⃣ What is the Moving Average?
+1️⃣2️⃣ What is Exponential smoothing?
+
+ Day 8:
+
+1️⃣ What is Tensorflow?
+2️⃣ What are Tensors?
+3️⃣ What is TensorBoard?
+4️⃣ What are the features of TensorFlow?
+5️⃣ What are the advantages of TensorFlow?
+6️⃣ List a few limitations of TensorFlow.
+7️⃣ What are the use cases of Tensorflow?
+8️⃣ What are the very important steps of Tensorflow architecture?
+9️⃣ What is Keras?
+🔟 What is a pooling layer?
+1️⃣1️⃣ What is the difference between CNN and RNN?
+1️⃣2️⃣ What are the benefits of Tensorflow over other libraries?
+
+
+Day 9:
+1️⃣ How would you define Machine Learning?
+2️⃣ What is a labeled training set?
+3️⃣ What are the two common supervised tasks?
+4️⃣ Can you name four common unsupervised tasks?
+5️⃣ What type of Machine Learning algorithm we use to allow a robot to walk in various unknown terrains?
+6️⃣ What type of algorithm would we use to segment your customers into multiple groups?
+7️⃣ What is online machine learning?
+8️⃣ What is out-of-core learning?
+9️⃣ What is the Model Parameter?
+1️⃣1️⃣ What is Model Hyperparameter?
+1️⃣2️⃣ What is cross-validation?
+
+Day 10:
+
+1️⃣ What is a Recommender System?
+2️⃣ Compare SAS, R, and Python programming.
+3️⃣ Why is important in data analysis?
+4️⃣ What are the various aspects of a Machine Learning process?
+5️⃣ What is Interpolation and Extrapolation?
+6️⃣ What does P-value signify about the statistical data?
+7️⃣ During analysis, how do you treat missing values?
+8️⃣ Explain the difference between a Test Set and a Validation Set?
+9️⃣ What is the curse of dimensionality? Can you list some ways to deal with it?
+🔟 What is data augmentation? Can you give some examples?
+
+Day 11:
+
+1️⃣ What are tensors?
+2️⃣ Define the concept of RNN?
+3️⃣ What is a ResNet, and where would you use it? Is it efficient?
+4️⃣ Transfer learning is one of the most useful concepts today. Where can it be used?
+5️⃣ What does tuning of hyperparameters signify? Explain with examples
+6️⃣ Why are deep learning models referred as black boxes?
+7️⃣ Why do we have gates in neural networks?
+8️⃣ What is a Sobel filter?
+9️⃣ What is the purpose of a Boltzmann Machine?
+🔟 What are the types of weight initialization?
+
+
+Day 12:
+1️⃣ Where is the confusion matrix used? Which module would you use to show it?
+2️⃣ What is Accuracy?
+3️⃣ What is Precision?
+4️⃣ What is Recall?
+5️⃣ What is F1 Score?
+6️⃣ What is Bias and Variance trade-off?
+7️⃣ What is data wrangling? Mention three points to consider in the process.
+8️⃣ Why is normalization required before applying any machine learning model? What module can you use to perform normalization?
+9️⃣ What is the difference between feature selection and feature extraction?
+🔟 Why is polarity and subjectivity an issue?
+1️⃣1️⃣ When would you use ARIMA?
+
+Day 13:
+
+1️⃣ What is Autoregression?
+2️⃣ What is Moving Average?
+3️⃣ What is Autoregressive Moving Average (ARMA)?
+4️⃣ What is Autoregressive Integrated Moving Average (ARIMA)?
+5️⃣ What is SARIMA (Seasonal Autoregressive Integrated Moving-Average)?
+6️⃣ What is Seasonal Autoregressive Integrated Moving-Average with Exogenous Regressors (SARIMAX)?
+7️⃣ What is Vector autoregression (VAR)?
+8️⃣ What is Vector Autoregression Moving-Average (VARMA)?
+9️⃣ What is Vector Autoregression Moving-Average with Exogenous Regressors (VARMAX)?
+🔟 What is Simple Exponential Smoothing (SES)?
+
+Day 14:
+
+1️⃣ What is Alexnet?
+2️⃣ What is VGGNet?
+3️⃣ What is VGG16?
+4️⃣ What is ResNet?
+5️⃣ What is HAAR CASCADE?
+6️⃣ What is Transfer Learning?
+7️⃣ What is Faster R-CNN?
+8️⃣ What is R-CNN?
+9️⃣ What is GoogLeNet/Inception?
+🔟 What is LeNet-5?
+
+Day 15:
+
+1️⃣ What is Autoencoder?
+2️⃣ What Is Text Similarity?
+3️⃣ What is a dropout in neural networks?
+4️⃣ What is Forward Propagation?
+5️⃣ What is Text Mining?
+6️⃣ What is Information Extraction?
+7️⃣ What is Text Generation?
+8️⃣ What is Text Summarization?
+9️⃣ What is Topic Modelling?
+🔟 What are Hidden Markov Models?
+
+Day 16:
+
+1️⃣ What is Statistics Learning?
+2️⃣ What is ANOVA?
+3️⃣ What is ANCOVA?
+4️⃣ What is MANOVA?
+5️⃣ What is MANCOVA?
+6️⃣ Explain the differences between the KNN classifier and KNN regression methods.
+7️⃣ What is a t-test?
+8️⃣ What is Z-test?
+9️⃣ What is the Chi-Square test?
+🔟 What are correlation and covariance in statistics?
+
+Day 17:
+
+1️⃣ What is ERM (Empirical Risk Minimization)?
+2️⃣ What is PAC (Probably Approximately Correct)?
+3️⃣ What is ELMo?
+4️⃣ What is Pragmatic Analysis in NLP?
+5️⃣ What is Syntactic Parsing?
+6️⃣ What is ULMFit?
+7️⃣ What is BERT?
+8️⃣ What is XLNet?
+9️⃣ What is the transformer?
+🔟 What is Text summarization?
+
+Day 18:
+1️⃣ What is Levenshtein Algorithm?
+2️⃣ What is Soundex?
+3️⃣ What is Constituency parse?
+4️⃣ What is LDA (Latent Dirichlet Allocation)?
+5️⃣ What is LSA?
+6️⃣ What is PLSA?
+7️⃣ What is LDA2Vec?
+8️⃣ What is Expectation-Maximization Algorithm (EM)?
+9️⃣ What is Text classification in NLP?
+🔟 What is Word Sense Disambiguation (WSD)?
+
+
+ Day 19:
+1️⃣ What is LSI (Latent Semantic Indexing)?
+2️⃣ What is Named Entity Recognition? And tell some use cases of NER?
+3️⃣ What is perplexity?
+4️⃣ What is the language model?
+5️⃣ What is Word Embedding?
+6️⃣ Do you have an idea about fastText?
+7️⃣ What is GloVe?
+8️⃣ Explain Gensim?
+9️⃣ What is Encoder-Decoder Architecture?
+🔟 What is Context2Vec?
+
+
+Day 20:
+1️⃣ Do you have any idea about Event2Mind in NLP?
+2️⃣ What is SWAG in NLP?
+3️⃣ What is the Pix2Pix network?
+4️⃣ Explain UNet Architecture?
+5️⃣ What is pair2vec?
+6️⃣ What is Meta-Learning?
+7️⃣ What is ALiPy (Active Learning in Python)?
+8️⃣ What is the Lingvo model?
+9️⃣ What is Dropout Neural Networks?
+🔟 What is GAN?
+
+Day 21:
+
+1️⃣ Explain Grad-CAM architecture?
+2️⃣ Explain squeeze-net architecture?
+3️⃣ ZFNet architecture
+4️⃣ What is NAS (Neural Architecture Search)?
+5️⃣ What is SENets?
+6️⃣ Feature Pyramid Network (FPN)
+7️⃣ DeepID-Net (Def-Pooling Layer)
+8️⃣ What is FractalNet Architecture?
+9️⃣ What is the SSPNet architecture?
+
+Day 22:
+
+1️⃣ Explain V-Net (Volumetric Convolution) Architecture related to Biomedical Image Segmentation?
+2️⃣ Highway Networks- Gating Function to highway
+3️⃣ What is DetNAS: Neural Architecture Search(NAS) on Object Detection?
+4️⃣ Do you have any idea about ECE (Emotion cause extraction).
+5️⃣ What is DST (Dialogue state tracking)?
+6️⃣ What is NMT(Neural machine translation)?
+7️⃣ What is Character-Level models (CLM)?
+8️⃣ What is the LexNLP package?
+9️⃣ Explain The Architecture of LeNet-5.
+
+Day 23:
+1️⃣ Explain Overfeat in Object Detection.
+2️⃣ What is Multipath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction?
+3️⃣ An Object detection approach using MR-CNN
+4️⃣ Object detection using Segmentation-aware CNN
+5️⃣ What is CRAFT (Object detection)?
+6️⃣ Explain YOLOv1 for Object Detection.
+7️⃣ Adversarial Examples Improve Image Recognition
+8️⃣ Advancing NLP with Cognitive Language Processing Signals
+9️⃣ Do you have any idea how can we use NLP on News headlines to predict index trends?
+
+Day 24:
+1️⃣ What is STN?
+2️⃣ What is decaNLP?
+3️⃣ Universal Transformers
+4️⃣ What is StarSpace in NLP?
+5️⃣ TransferTransfo in NLP
+6️⃣ Wizard of Wikipedia: Knowledge-Powered Conversational Agents
+7️⃣ ERASER: A Benchmark to Evaluate Rationalized NLP Models
+8️⃣ End to End memory networks
+9️⃣ What is LinkNet?
+
+Day 25:
+
+1️⃣. What is WRN?
+2️⃣. What is SIMCO: SIMilarity-based object Counting?
+3️⃣. What is Voice-Face Cross-modal Matching and Retrieval?
+4️⃣. What is CenterNet: Object Detection with Keypoint Triplets?
+5️⃣. What is Task2Vec: Task Embedding for Meta-Learning?
+6️⃣. What is GLMNet: Graph Learning-Matching Networks for Feature Matching?
+7️⃣. What is SSAP: Single-Shot Instance Segmentation With Affinity Pyramid?
+8️⃣. What is TENER: Adapting Transformer Encoder for Name Entity Recognition?
+9️⃣. What is Subword ELMo?
+
+
+Day 26:
+
+1️⃣ What is DCGANs (Deep Convolutional Generative Adversarial Networks)?
+2️⃣ Explain EnAET.
+3️⃣ What is Data Embedding Learning?
+4️⃣ Do you have any idea about Rookie?
+5️⃣ SECRET: Semantically Enhanced Classification of Real-world Tasks
+6️⃣ Semantic bottleneck for computer vision tasks
+7️⃣ Gender Bias in Neural Natural Language Processing
+8️⃣ DSReg: Using Distant Supervision as a Regularizer
+9️⃣ What is Multimodal Emotion Classification?
+
+
+Day 27:
+
+1️⃣ Learning to Caption Images with Two-Stream Attention and Sentence Auto-Encoder
+2️⃣ Explain PQ-NET.
+3️⃣ What is EDIT?
+4️⃣ What is Doctor2Vec?
+5️⃣ Explain PAG-Net.
+6️⃣ An End-to-End Audio Classification System based on Raw Waveforms and Mix-Training Strategy
+7️⃣ What is Cnak? : Cluster Number Assisted K-means
+8️⃣ What is D3S?
+9️⃣ What is DRNet?
+
+Day 28:
+
+❶ Explain StructEdit (Learning Structural Shape Variations).
+❷ EmpGAN: Multi-resolution Interactive Empathetic Dialogue Generation.
+❸ G-TAD: Sub-Graph Localization for Temporal Action Detection.
+❹ What is F3Net?
+❺ Natural Language Generation using Reinforcement Learning with External Rewards.
+❻ LaFIn: Generative Landmark Guided Face Inpainting.
+❼ Image2StyleGAN++: How to Edit the Embedded Images?
+❽ oops! Predicting Unintentional Action in Video.
+❾ FairyTED: A Fair Rating Predictor for TED Talk Data.
+
+Day 29:
+
+1️⃣ What is SuperGlue?
+2️⃣ What is MixNMatch?
+3️⃣ FAN: Feature Adaptation Network
+5️⃣ WSOD with PSNet and Box Regression
+6️⃣ Autonomous Driving Assistance Systems (ADAS) and Vehicle Automation.
+7️⃣ Robot Learning and Execution of Collaborative Manipulation Plans from YouTube Videos.
+8️⃣ JEC-QA: A Legal-Domain Question Answering Dataset
+9️⃣ SpoC: Spoofing Camera Fingerprints
+
+ Day 30:
+
+1️⃣ Tell me about your current project.
+2️⃣ What was the size of the data?
+3️⃣ What was the data type?
+4️⃣ What was the team size and distribution?
+5️⃣ What Hadoop distribution were you using?
+6️⃣ What is the version of distribution?
+7️⃣ What was the size of the cluster?
+8️⃣ How many nodes were there in all the Dev, UAT, and Prod environments?
+9️⃣ How were you creating and maintaining the logs?
+
+
